@@ -3,7 +3,7 @@
 ## 1. À propos
 
 *Course de martiens* est un simple jeu de course à obstacles pour Android.\
-![À propos](https://github.com/pierre-halipre/course-de-martiens/assets/readme_1_a_propos.jpg)\
+![À propos](https://github.com/pierre-halipre/course-de-martiens/blob/main/assets/readme_1_a_propos.jpg)\
 Pilotez un vaisseau spatial entre des martiens lors d'une course sur la lune !
 
 ## 2. Installation
@@ -20,7 +20,7 @@ Téléchargez le fichier [course-de-martiens-1.apk](https://github.com/pierre-ha
 Ouvrez le pour procéder à l'installation.
 >Note : L'application n'est pas signée et demande une autorisation particulière.
 
-![Pour jouer](https://github.com/pierre-halipre/course-de-martiens/assets/readme_2_2_pour_jouer.jpg)\
+![Pour jouer](https://github.com/pierre-halipre/course-de-martiens/blob/main/assets/readme_2_2_pour_jouer.jpg)\
 Cliquez sur l'icône correspondant pour jouer.
 
 ### 2.3. Pour développer
@@ -38,7 +38,7 @@ Le code source a été développé avec :
 ### 3.1. Écran de titre
 
 Le titre est affiché sur la zone de jeu et la démo tourne en tâche de fond.\
-![Écran de titre](https://github.com/pierre-halipre/course-de-martiens/assets/readme_3_1_ecran_de_titre.jpg)\
+![Écran de titre](https://github.com/pierre-halipre/course-de-martiens/blob/main/assets/readme_3_1_ecran_de_titre.jpg)\
 Cliquez sur *JOUER* en haut à gauche pour commencer une partie.\
 Cliquez sur *QUITTER* en haut à droite pour quitter l'application.
 
@@ -49,14 +49,14 @@ Déplacez le en cliquant sur l'une des trois cases du bas en pointillées.\
 Les martiens défilent du haut vers le bas.\
 L'objectif est de les éviter par des déplacements.\
 Le vaisseau spatial part en haut à la fin quand tous les martiens sont passés.\
-![Écran de jeu](https://github.com/pierre-halipre/course-de-martiens/assets/readme_3_2_ecran_de_jeu.jpg)\
+![Écran de jeu](https://github.com/pierre-halipre/course-de-martiens/blob/main/assets/readme_3_2_ecran_de_jeu.jpg)\
 Cliquez sur *PAUSE* en haut à gauche pour mettre la partie en pause.\
 Cliquez sur *ARRÊTER* en haut à droite pour revenir à l'écran de titre.
 
 ### 3.3. Écran de pause
 
 La zone de jeu est grisée.\
-![Écran de pause](https://github.com/pierre-halipre/course-de-martiens/assets/readme_3_3_ecran_de_pause.jpg)\
+![Écran de pause](https://github.com/pierre-halipre/course-de-martiens/blob/main/assets/readme_3_3_ecran_de_pause.jpg)\
 Cliquez sur *REPRISE* en haut à gauche pour reprendre la partie.\
 Cliquez sur *ARRÊTER* en haut à droite pour revenir à l'écran de titre.
 
@@ -65,7 +65,7 @@ Cliquez sur *ARRÊTER* en haut à droite pour revenir à l'écran de titre.
 Le score et le temps de la partie sont affichés sur la zone de jeu.
 >Note : La partie est d'autant plus rapide que des martiens sont évités.
 
-![Écran de fin](https://github.com/pierre-halipre/course-de-martiens/assets/readme_3_4_ecran_de_fin.jpg)\
+![Écran de fin](https://github.com/pierre-halipre/course-de-martiens/blob/main/assets/readme_3_4_ecran_de_fin.jpg)\
 Cliquez sur *REJOUER* en haut à gauche pour recommencer une partie.\
 Cliquez sur *ARRÊTER* en haut à droite pour revenir à l'écran de titre.
 
@@ -86,7 +86,7 @@ licensed CC-BY-SA 3.0, GPL 3.0:\
 - "Space Bot Rework" by AntumDeluge licensed CC-BY 3.0:\
 [https://opengameart.org/content/space-bot-rework](https://opengameart.org/content/space-bot-rework).
 
-Le programme est distribué sous la licence GPL-3.0 du fichier [LICENSE.md](https://github.com/pierre-halipre/course-de-martiens/LICENSE.md).
+Le programme est distribué sous la licence GPL-3.0 du fichier [LICENSE.md](https://github.com/pierre-halipre/course-de-martiens/blob/main/LICENSE.md).
 >Note : Contactez l'auteur à [pierre-halipre](https://github.com/pierre-halipre) pour toute information.\
 \
 Copyright 2024 Pierre Halipré\
