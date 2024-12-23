@@ -3,7 +3,7 @@
 ## 1. À propos
 
 *Course de martiens* est un simple jeu de course à obstacles pour Android.\
-![Course de martiens](https://github.com/pierre-halipre/course-de-martiens/assets/readme_1_a_propos.jpg)\
+![À propos](https://github.com/pierre-halipre/course-de-martiens/assets/readme_1_a_propos.jpg)\
 Pilotez un vaisseau spatial entre des martiens lors d'une course sur la lune !
 
 ## 2. Installation
